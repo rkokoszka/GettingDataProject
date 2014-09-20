@@ -1,4 +1,3 @@
-library(dplyr)
 
 ## Set the working directory
 setwd("~/Desktop/Coursera/Getting & Cleaning Data/Project/")
